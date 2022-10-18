@@ -30,7 +30,7 @@ for more information.
 Features
 --------
 
-- Vote with friends on Turbosrc
+- Vote with friends on Turbosrc, and other cool stuff
 - Modern [GUIs](https://github.com/neovim/neovim/wiki/Related-projects#gui)
 - [API access](https://github.com/neovim/neovim/wiki/Related-projects#api-clients)
   from any language including C/C++, C#, Clojure, D, Elixir, Go, Haskell, Java,
